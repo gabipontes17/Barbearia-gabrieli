@@ -1,8 +1,16 @@
-h1 {
+.titulo-principal{
+  padding-left: 30px;
+}
+
+.principal{
+  background-color: #CCC ;
+  padding: 30px;
+}
+.titulo-centralizado{
   text-align: center;
 }
 
-p {
+p{
   text-align: center;
 }
 
@@ -10,6 +18,10 @@ p {
   font-size: 20px;
 }
 
-em{
-  color: purple;
+em strong{
+ color: purple;
+}
+
+#banner{
+  width: 100;
 }
