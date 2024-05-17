@@ -3,14 +3,15 @@
 }
 
 .principal{
-  background-color: #CCC ;
+  background-color: #CCCCCC;
   padding: 30px;
 }
+
 .titulo-centralizado{
   text-align: center;
 }
 
-p{
+p {
   text-align: center;
 }
 
@@ -19,9 +20,24 @@ p{
 }
 
 em strong{
- color: purple;
+  color: #b83268;
 }
 
 #banner{
-  width: 100;
+  width: 100%;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+#beneficios {
+  width: 50%;
+}
+
+.item {
+  font-style: italic;
 }
