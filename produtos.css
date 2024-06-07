@@ -29,7 +29,7 @@ nav a{
 }
 
 nav a:hover{
-  color: #C78C19;
+  color: #bc345d;
   text-decoration: underline;
 }
 
@@ -67,7 +67,7 @@ nav a:hover{
 }
 
 .produtos li:hover{
-  border-color: #C78C19;
+  border-color: #ce557f;
 }
 
 .produtos li:hover h2{
@@ -97,4 +97,11 @@ main{
 
 form{
   margin: 40px 0;
+}
+
+.input-padrao{
+  display: block;
+  margin-bottom: 20px;
+  padding: 10px 25px;
+  width: 50%;
 }
