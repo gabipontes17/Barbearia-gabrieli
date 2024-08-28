@@ -241,3 +241,11 @@ th, td {
   margin: 1em auto;
 }
 
+@media screen and (max-width: 480px{ 
+  caixa, .principal, .mapa-conteudo, .mapa, .beneficio, 
+    
+  }
+  nav {
+    position: static;
+  }
+}
